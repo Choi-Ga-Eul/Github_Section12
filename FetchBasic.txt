@@ -1,0 +1,1 @@
+Fetch is to download from Github Repository's changes to Local Git Repository
